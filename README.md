@@ -33,6 +33,7 @@ Product Category-wise Sales Breakdown
 🔧 Tools Used
 
 Power BI Desktop – for building the dashboard
+
 Microsoft Excel / CSV – as data sources
 
 💡 Insights Derived
